@@ -33,7 +33,7 @@ gem 'mail_form'
 gem 'simple_form'
 
 gem 'will_paginate', '~> 3.1'
-gem 'paperclip', '~> 4.3', '>= 4.3.6'
+gem 'paperclip', '~> 5.2'
 gem 'wysiwyg-rails'
 gem 'font-awesome-rails'
 
